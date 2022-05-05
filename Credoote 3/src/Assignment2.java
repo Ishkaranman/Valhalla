@@ -6,7 +6,7 @@ public class Assignment2 {
 		// TODO Auto-generated method stub
 		/*
 
-		Program: ${Assignment 1}.java          Date: ${4,28,2022}
+		Program: ${Assignment 2}.java          Date: ${4,28,2022}
 
 
 		Author: Ishkaran manchanda
