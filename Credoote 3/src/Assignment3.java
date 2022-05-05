@@ -37,7 +37,12 @@ public class Assignment3 {
 			
 			
 			/* Screen Dump
-
+B I  N  G  O
+2 16 32 46 72  
+3 30 45 55 62 
+4 12 FREE 52 64 
+15 6 42 47 65 
+14 5 31 48 75  
 
 
 

@@ -35,7 +35,10 @@ public class Assignment2 {
 		
 		
 		/* Screen Dump
-
+ ------ ||       ||
+   |    | |     | |
+   |    |  |   |  |
+ ------ |    |    |
 
 
 
